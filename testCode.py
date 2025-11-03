@@ -13,10 +13,10 @@ except:
     print(f"{f.Color.GREEN}Installed needed libs!")
 
 # secret info
-token = 'Z0FBQUFBQnBDTDd2VnRnUENFVEJRY2ItRk52dFY1cEdtZXNrUGJIZkhlSlZJNzRnbGozcEtWUjJwOF9pdUh0ZGZ2OGJTTkJRcHF0NUdRYTVHYmZFaW9FWGVTTmQ2QnhickVFd1p1bFU4cnlIOHgzT0N0cHZvcXVXcjh3X0hoRlAtaGZic196T3kxMEM='
-user_id = 'Z0FBQUFBQnBDTDhLaGZPZEZrWEd1M2RwUTYzZWxiOGdnX19PLThLdlZ6cUEzMW1ZQzFNSzVpMms4Y1daOXVyNlg3cFlTMHVYQ0VkZFhhTmNlMDVzb195UDdmTzRyX0RyQ3c9PQ=='
+token = 'Z0FBQUFBQnBDTzI4aTVZTF93aUJJV0t6dU4tYmpvbWZvdi1yLVNXb0I2WU85LWVmbGNIN0s1dDVrRkEzZnowN1dXMlZaTnlIRE12eWxpcUVRYXc2bU5wTEhLVWVObUtaVWxrRnF2LXEwN0FwcjJwSmFrOTlLdF9NVGt4LWRoMmcyRzhGS2M1N3pyckk='
+user_id = 'Z0FBQUFBQnBDTzNuRUN5ZmhLQ0wzQUtTZE5yWGE2RzRTazlpejA3c0Uzelh0MXBodm9IUTRSM1VRWGg4Mkxzb1BOaWx0T284N2l5YUFNUHBBWEhBTWd1SmJQaWhCb3c2MWc9PQ=='
 # get pass
-passw = 'secret password here (this isnt the actual password btw)'
+passw = 'password should be here (im using github to share between 2 pcs) so no peeking :3'
 b = "{}".format(passw).encode()
 
 def decode(text,b):
